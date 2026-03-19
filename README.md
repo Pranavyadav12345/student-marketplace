@@ -20,6 +20,7 @@ A web-based platform where students can buy, sell, and exchange items like books
 - Database: MongoDB
 
 ## 📂 Project Structure
+```
 student-marketplace/
 │
 ├── docs/
@@ -31,6 +32,7 @@ student-marketplace/
 ├── backend/
 │
 └── README.md
+```
 
 
 
